@@ -1,0 +1,14 @@
+table{
+  width: 600px;
+  height: 600px;
+  border: 0;
+}
+
+tr{
+  background-color: #fff;
+}
+
+td{
+  width: 200px;
+  height: 200px;
+}
