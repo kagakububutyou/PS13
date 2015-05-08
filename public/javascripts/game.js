@@ -1,1 +1,3 @@
-alert("hoge");
+$(document).ready(function(){
+  alert('ready');
+});
